@@ -6,7 +6,7 @@
 - 📍  I live in **Bologna**
 - 🏫  I attend **highschool**
 - 💻  I am currently learning **Python**
-- 🗄  I am currently working on **nothing**
+- 🗄  I am currently working on **getting layed**
 
 ## 🏔 Languages and Tools
 <p align="center">
