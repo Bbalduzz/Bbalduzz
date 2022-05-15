@@ -16,4 +16,5 @@
   <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
   <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
   <a href="https://www.crummy.com/software/BeautifulSoup/"><img src="https://img.icons8.com/ios/48/000000/ladle.png"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/></a>
 </p>
