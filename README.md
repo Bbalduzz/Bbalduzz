@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <mark>Edoardo Balducci</mark></h1>
+<h1 align="center">Hi, I'm <mark>Edoardo Balducci</mark></h1>
 <h5 align="center" style="color: red">Balduzz for friends</h5>
 <h3 align="center">I'm a self tought "programmer" and "web-developer"</h3>
 
