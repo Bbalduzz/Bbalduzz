@@ -7,7 +7,7 @@
 ## 👨🏼‍💻 About Me
 - 📍  I live in **Bologna**
 - 🏫  I attend **highschool**
-- 💻  I am currently learning **Python**
+- 💻  I am currently learning **Python**, **C#**
 - 🗄  I am currently working on **getting layed**
 
 ## 🏔 Languages and Tools
