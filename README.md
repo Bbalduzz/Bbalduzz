@@ -1,4 +1,5 @@
-<img width="100%" alt="" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Illustration.gif"/>
+<img align="right" src='https://user-images.githubusercontent.com/81587335/194700849-81de17c8-165f-4eaf-bcb9-280bd353954a.gif'>
+
 <h1 align="center">Hi, I'm <mark>Edoardo Balducci</mark></h1>
 <h5 align="center" style="color: red">Balduzz for friends</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bbalduzz&label=Profile%20views&color=0e75b6&style=flat" alt="bbalduzz" /> </p>
