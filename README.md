@@ -3,7 +3,6 @@
 <h1 align="center">Hi, I'm <mark>Edoardo Balducci</mark></h1>
 <h5 align="center" style="color: red">Balduzz for friends</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bbalduzz&label=Profile%20views&color=0e75b6&style=flat" alt="bbalduzz" /> </p>
-<h3 align="center">I'm a self tought "programmer" and "web-developer"</h3>
 
 ## 👨🏼‍💻 About Me
 - 📍  I live in **Bologna**
