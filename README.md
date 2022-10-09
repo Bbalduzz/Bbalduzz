@@ -1,4 +1,4 @@
-<img align="right" src='https://user-images.githubusercontent.com/81587335/194700849-81de17c8-165f-4eaf-bcb9-280bd353954a.gif'>
+<img align="right" src='https://user-images.githubusercontent.com/81587335/194774864-2ab39763-b516-411b-85cf-546decf0e66f.gif'>
 
 <h1 align="center">Hi, I'm <mark>Edoardo Balducci</mark></h1>
 <h5 align="center" style="color: red">Balduzz for friends</h5>
