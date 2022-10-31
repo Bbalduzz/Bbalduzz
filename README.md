@@ -5,11 +5,26 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bbalduzz&label=Profile%20views&color=0e75b6&style=flat" alt="bbalduzz" /> </p>
 
 ## 👨🏼‍💻 About Me
-- 📍  I live in **Bologna**
-- 🏫  I attend **highschool**
-- 💻  I am currently learning **Python**, **C#**
-- 🗄  I am currently working on **getting layed**
-
+```python
+class Bbalduzz:
+    def __init__(self):
+        self.name = 'Edoardo Balducci'
+        self.aka = 'Balduzz'
+    
+    def whoami(self):
+        self.home = 'BO'
+        self.age = 18
+        self.pets = 'Pepe - my cat :)'
+        self.studies = 'highschool'
+    
+    def skills(self):
+        self.mainlanguage = 'python'
+        self.learnings = ['swift', 'c#']
+        self.tools = ['html', 'css', 'js', 'vscode', 'bs4']
+        self.currentwork = 'getting layed'
+        
+me = Bbalduzz()
+```
 ## 🏔 Languages and Tools
 <p align="center">
   <a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
