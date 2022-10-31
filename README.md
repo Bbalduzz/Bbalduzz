@@ -4,7 +4,6 @@
 <h5 align="center" style="color: red">Balduzz for friends</h5>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bbalduzz&label=Profile%20views&color=0e75b6&style=flat" alt="bbalduzz" /> </p>
 
-## 👨🏼‍💻 About Me
 ```python
 class Bbalduzz:
     def __init__(self):
