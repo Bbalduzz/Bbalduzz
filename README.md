@@ -1,4 +1,4 @@
-<img align="right" src='https://user-images.githubusercontent.com/81587335/194774864-2ab39763-b516-411b-85cf-546decf0e66f.gif'>
+<img align="right" src='https://i.pinimg.com/564x/e5/5d/3a/e55d3a9b73c77abb04915bc0d942e02b.jpg' alt='wanderer above the sea of fog - friedrich'>
 
 <h1 align="center">Hi, I'm <mark>Edoardo Balducci</mark></h1>
 <h5 align="center" style="color: red">Balduzz for friends</h5>
