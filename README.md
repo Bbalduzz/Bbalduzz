@@ -12,7 +12,7 @@ class Bbalduzz:
     
     def whoami(self):
         self.home = 'BO'
-        self.age = 18
+        self.age = 19
         self.pets = 'Pepe - my cat :)'
         self.studies = 'highschool'
     
