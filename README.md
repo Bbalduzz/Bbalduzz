@@ -19,7 +19,6 @@ class Bbalduzz:
     def skills(self):
         self.mainlanguage = 'python'
         self.learnings = ['swift', 'c#']
-        self.tools = ['html', 'css', 'js', 'vscode', 'bs4']
         self.currentwork = 'getting layed'
         
 me = Bbalduzz()
