@@ -12,13 +12,13 @@ class Bbalduzz:
     
     def whoami(self):
         self.home = 'BO'
-        self.age = 19
+        self.year = 2004
+        self.studies = 'university'
         self.pets = 'Pepe - my cat :)'
-        self.studies = 'highschool'
     
     def skills(self):
         self.mainlanguage = 'python'
-        self.learnings = ['swift', 'c#']
+        self.learnings = ['typescript', 'flutter', 'c#']
         self.currentwork = 'getting layed'
         
 me = Bbalduzz()
